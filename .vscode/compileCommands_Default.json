@@ -1,0 +1,338 @@
+[
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/UEIntro_Dev_26.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/UEIntro_Dev_26Character.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/UEIntro_Dev_26GameMode.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/UEIntro_Dev_26PlayerController.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/AI/CombatAIController.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/AI/CombatEnemy.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/AI/CombatEnemySpawner.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/AI/CombatStateTreeUtility.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/AI/EnvQueryContext_Danger.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/AI/EnvQueryContext_Player.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Animation/AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Animation/AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/CombatCharacter.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/CombatGameMode.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/CombatPlayerController.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Gameplay/CombatActivationVolume.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Gameplay/CombatCheckpointVolume.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Gameplay/CombatDamageableBox.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Gameplay/CombatDummy.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Gameplay/CombatLavaFloor.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Interfaces/CombatActivatable.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Interfaces/CombatAttacker.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/Interfaces/CombatDamageable.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Combat/UI/CombatLifeBar.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Platforming/Animation/AnimNotify_EndDash.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Platforming/PlatformingCharacter.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Platforming/PlatformingGameMode.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_Platforming/PlatformingPlayerController.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/Interfaces/SideScrollingInteractable.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/SideScrollingCameraManager.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/SideScrollingCharacter.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/SideScrollingGameMode.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/SideScrollingPlayerController.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	},
+	{
+		"file": "/home/assad/Development/UEIntro_Dev_26/Source/UEIntro_Dev_26/Variant_SideScrolling/UI/SideScrollingUI.cpp",
+		"arguments": [
+			"/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v26_clang-20.1.8-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/assad/Development/UEIntro_Dev_26/.vscode/compileCommands_Default/UEIntro_Dev_26.0.rsp"
+		],
+		"directory": "/secondary/assad/Linux_Unreal_Engine_5.8.2/Engine/Source"
+	}
+]
