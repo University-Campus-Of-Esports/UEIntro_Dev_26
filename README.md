@@ -24,11 +24,10 @@ git lfs pull
 ```
 
 1. Open `UEIntro_Dev_26.uproject`.
-2. In Unreal, choose **Tools > Open Rider**.
-3. Build `UEIntro_Dev_26Editor` in Rider.
+2. In Unreal, choose **Tools > Open IDE**.
+3. Build `UEIntro_Dev_26Editor` if nessesarry.
 4. Return to Unreal and press **Play**.
 
-See [Rider and building](docs/RIDER_AND_BUILDING.md) if something goes wrong.
 
 ## Workshop 1 — Unreal C++
 
